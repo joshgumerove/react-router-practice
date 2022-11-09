@@ -37,3 +37,4 @@ export default App;
 // note the identifier given in params -- will be the key that it is created with
 // note thee use of the wildcard character -- matches all (needs to be rendered at the end
 // the wildcard route must come last
+// note query urls are at end of url and start with a question mark (are not mandatory)
